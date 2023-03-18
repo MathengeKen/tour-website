@@ -1,2 +1,2 @@
 # tour-website
-Created with CodeSandbox
+A tours website created in React, html and css.
